@@ -16,6 +16,7 @@ export function useSpotifyAuthContext(){
     return useContext(SpotifyAuthContext);
 }
 
+// client  ID from app configured in Spotify developer dashboard
 const clientId = "8ea51b3dc52a47d3980677fb055af887";
 
 
